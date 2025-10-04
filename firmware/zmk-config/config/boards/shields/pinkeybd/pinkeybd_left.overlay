@@ -1,0 +1,7 @@
+#include "pinkeybd.dtsi"
+
+/ {
+    trackball: trackball {
+        status = "disabled";
+    };
+};

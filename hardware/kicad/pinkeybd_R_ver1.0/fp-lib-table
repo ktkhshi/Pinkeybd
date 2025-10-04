@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pinkeybd_R_ver1")(type "KiCad")(uri "D:/40_Hobby/keyboard/mine/pinkeybd/pcb/pinkeybd_R_ver1.pretty")(options "")(descr ""))
+)
